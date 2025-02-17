@@ -1,0 +1,162 @@
+[
+  {
+    "title": "National Merit Scholarship",
+    "description": "### Scholarship Details\n- **Amount:** \u20b950,000 per year\n- **Eligibility:** Open to students with 85%+ in Class 12\n- **Application Deadline:** 30th September\n- **Selection Criteria:** Academic performance and financial need.",
+    "caste": "General",
+    "religion": "Hindu",
+    "collegeType": "Government",
+    "embedding": []
+  },
+  {
+    "title": "State Excellence Award",
+    "description": "### Scholarship Details\n- **Amount:** \u20b930,000 per year\n- **Eligibility:** Available for students securing 90%+ in board exams\n- **Application Deadline:** 15th August\n- **Selection Criteria:** Academic merit and extracurricular achievements.",
+    "caste": "OBC",
+    "religion": "Muslim",
+    "collegeType": "State",
+    "embedding": []
+  },
+  {
+    "title": "Minority Student Grant",
+    "description": "### Scholarship Details\n- **Amount:** \u20b920,000 per year\n- **Eligibility:** Open to students from minority communities with financial need\n- **Application Deadline:** 10th October\n- **Selection Criteria:** Financial background and academic performance.",
+    "caste": "SC",
+    "religion": "Christian",
+    "collegeType": "Local",
+    "embedding": []
+  },
+  {
+    "title": "Women in STEM Scholarship",
+    "description": "### Scholarship Details\n- **Amount:** \u20b960,000 per year\n- **Eligibility:** Female students pursuing STEM degrees\n- **Application Deadline:** 5th December\n- **Selection Criteria:** Academic record and passion for STEM fields.",
+    "caste": "General",
+    "religion": "Hindu",
+    "collegeType": "Government",
+    "embedding": []
+  },
+  {
+    "title": "Tribal Welfare Grant",
+    "description": "### Scholarship Details\n- **Amount:** \u20b925,000 per year\n- **Eligibility:** Reserved for students belonging to Scheduled Tribes\n- **Application Deadline:** 20th July\n- **Selection Criteria:** Tribal status and academic merit.",
+    "caste": "ST",
+    "religion": "Hindu",
+    "collegeType": "State",
+    "embedding": []
+  },
+  {
+    "title": "Sports Excellence Scholarship",
+    "description": "### Scholarship Details\n- **Amount:** \u20b935,000 per year\n- **Eligibility:** Students excelling in sports at national or state levels\n- **Application Deadline:** 1st November\n- **Selection Criteria:** Sports achievements and academic record.",
+    "caste": "General",
+    "religion": "Muslim",
+    "collegeType": "Local",
+    "embedding": []
+  },
+  {
+    "title": "Engineering Bright Future Fund",
+    "description": "### Scholarship Details\n- **Amount:** \u20b945,000 per year\n- **Eligibility:** Students pursuing engineering with 80%+ in Class 12\n- **Application Deadline:** 12th September\n- **Selection Criteria:** Academic excellence and financial need.",
+    "caste": "OBC",
+    "religion": "Hindu",
+    "collegeType": "Government",
+    "embedding": []
+  },
+  {
+    "title": "Medical Career Advancement Fund",
+    "description": "### Scholarship Details\n- **Amount:** \u20b960,000 per year\n- **Eligibility:** Medical students with outstanding academic records\n- **Application Deadline:** 30th June\n- **Selection Criteria:** Entrance exam rank and financial need.",
+    "caste": "General",
+    "religion": "Christian",
+    "collegeType": "State",
+    "embedding": []
+  },
+  {
+    "title": "Rural Development Scholarship",
+    "description": "### Scholarship Details\n- **Amount:** \u20b930,000 per year\n- **Eligibility:** Students from rural backgrounds pursuing higher education\n- **Application Deadline:** 18th October\n- **Selection Criteria:** Economic background and academic merit.",
+    "caste": "SC",
+    "religion": "Hindu",
+    "collegeType": "Local",
+    "embedding": []
+  },
+  {
+    "title": "Social Work Leadership Award",
+    "description": "### Scholarship Details\n- **Amount:** \u20b920,000 per year\n- **Eligibility:** Students pursuing degrees in social work\n- **Application Deadline:** 15th September\n- **Selection Criteria:** Passion for social work and financial need.",
+    "caste": "OBC",
+    "religion": "Muslim",
+    "collegeType": "Government",
+    "embedding": []
+  },
+  {
+    "title": "Science and Research Grant",
+    "description": "### Scholarship Details\n- **Amount:** \u20b950,000 per year\n- **Eligibility:** Students pursuing science and research fields\n- **Application Deadline:** 5th April\n- **Selection Criteria:** Research proposal and academic excellence.",
+    "caste": "General",
+    "religion": "Hindu",
+    "collegeType": "Government",
+    "embedding": []
+  },
+  {
+    "title": "Arts and Humanities Scholarship",
+    "description": "### Scholarship Details\n- **Amount:** \u20b930,000 per year\n- **Eligibility:** Students enrolled in arts and humanities courses\n- **Application Deadline:** 10th May\n- **Selection Criteria:** Portfolio review and academic merit.",
+    "caste": "OBC",
+    "religion": "Muslim",
+    "collegeType": "State",
+    "embedding": []
+  },
+  {
+    "title": "Future Innovators Award",
+    "description": "### Scholarship Details\n- **Amount:** \u20b970,000 per year\n- **Eligibility:** Students with innovative project ideas in technology\n- **Application Deadline:** 15th July\n- **Selection Criteria:** Project feasibility and academic performance.",
+    "caste": "General",
+    "religion": "Christian",
+    "collegeType": "Local",
+    "embedding": []
+  },
+  {
+    "title": "Merit-Based Business Scholarship",
+    "description": "### Scholarship Details\n- **Amount:** \u20b940,000 per year\n- **Eligibility:** Business students with strong leadership potential\n- **Application Deadline:** 20th August\n- **Selection Criteria:** Leadership experience and academic record.",
+    "caste": "SC",
+    "religion": "Hindu",
+    "collegeType": "Government",
+    "embedding": []
+  },
+  {
+    "title": "Engineering Excellence Grant",
+    "description": "### Scholarship Details\n- **Amount:** \u20b955,000 per year\n- **Eligibility:** Engineering students with outstanding academic records\n- **Application Deadline:** 30th June\n- **Selection Criteria:** Academic performance and innovation in engineering.",
+    "caste": "ST",
+    "religion": "Muslim",
+    "collegeType": "State",
+    "embedding": []
+  },
+  {
+    "title": "Healthcare Future Leaders Fund",
+    "description": "### Scholarship Details\n- **Amount:** \u20b960,000 per year\n- **Eligibility:** Medical students with a commitment to community service\n- **Application Deadline:** 12th September\n- **Selection Criteria:** Medical entrance exam score and service experience.",
+    "caste": "General",
+    "religion": "Hindu",
+    "collegeType": "Local",
+    "embedding": []
+  },
+  {
+    "title": "Emerging Entrepreneurs Award",
+    "description": "### Scholarship Details\n- **Amount:** \u20b925,000 per year\n- **Eligibility:** Students developing startup ideas\n- **Application Deadline:** 1st November\n- **Selection Criteria:** Business plan and innovation potential.",
+    "caste": "OBC",
+    "religion": "Christian",
+    "collegeType": "Government",
+    "embedding": []
+  },
+  {
+    "title": "Sustainable Development Grant",
+    "description": "### Scholarship Details\n- **Amount:** \u20b930,000 per year\n- **Eligibility:** Students working on sustainability projects\n- **Application Deadline:** 18th October\n- **Selection Criteria:** Project impact and academic merit.",
+    "caste": "SC",
+    "religion": "Muslim",
+    "collegeType": "State",
+    "embedding": []
+  },
+  {
+    "title": "Law and Justice Scholarship",
+    "description": "### Scholarship Details\n- **Amount:** \u20b940,000 per year\n- **Eligibility:** Law students with a passion for social justice\n- **Application Deadline:** 25th March\n- **Selection Criteria:** Commitment to justice and academic record.",
+    "caste": "General",
+    "religion": "Hindu",
+    "collegeType": "Local",
+    "embedding": []
+  },
+  {
+    "title": "Women Empowerment Award",
+    "description": "### Scholarship Details\n- **Amount:** \u20b960,000 per year\n- **Eligibility:** Female students excelling in leadership and academics\n- **Application Deadline:** 5th December\n- **Selection Criteria:** Leadership experience and academic excellence.",
+    "caste": "General",
+    "religion": "Christian",
+    "collegeType": "Government",
+    "embedding": []
+  }
+]
