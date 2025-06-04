@@ -13,11 +13,6 @@ app.use(cors({ origin: process.env.FRONTEND_URL, credentials: true }));
 // ROUTES
 app.use("/api/scholarships", scholarshipRoutes);
 
-// ping this every 10 minutes using UptimeRobot to keep server alive, and avoid cold start
-app.get('/health', (req, res) => {
-  res.sendStatus(200)
-});
-
 mongoose
   .connect(process.env.MONGO_URI)
   .then(() => console.log("Connected to MongoDB"))
