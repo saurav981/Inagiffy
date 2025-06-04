@@ -1,7 +1,6 @@
+import "dotenv/config";
 import { pipeline } from "@xenova/transformers";
 import { MongoClient } from "mongodb";
-import { config } from "dotenv";
-config();
 
 const client = new MongoClient(process.env.MONGO_URI);
 const db = client.db(process.env.DB_NAME);

@@ -1,10 +1,8 @@
+import "dotenv/config";
 import express from "express";
 import mongoose from "mongoose";
 import cors from "cors";
-import dotenv from "dotenv";
 import scholarshipRoutes from "./routes/scholarshipRoutes.js";
-
-dotenv.config();
 
 const app = express();
 app.use(express.json());
